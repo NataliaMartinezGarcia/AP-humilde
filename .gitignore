@@ -5,3 +5,7 @@ prueba.ipynb
 .DS_Store
 HIGGS.csv.gz
 midi/
+midis_generados_anidada.zip
+midis_generados_simple.zip
+midis_generados_transformer.zip
+.ipynb_checkpoints
